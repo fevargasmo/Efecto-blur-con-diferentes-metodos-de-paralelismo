@@ -1,28 +1,25 @@
 # Efecto-blur-con-Pymp
-## Aplicar efecto blur a imagenes usando pymp que es la interza de OpenMp para python.
+## Aplicar efecto blur a imagenes usando pymp que es la interz de OpenMp para python.
 
 ## Librerias
-Usar Python3.*
+*Usar Python3.*
 
 
-[instalar opencv](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html)
+*[instalar opencv](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html)
 
-Instalar pymp
+*Instalar pymp
 
 ```python
 pip3 install pymp-pypi
 ```
 
 
-Importar librerias
+*Importar librerias
 
 
 ```python
 import cv2
 import pymp
-
-
-
 ```
 
 ## Ejecutar
