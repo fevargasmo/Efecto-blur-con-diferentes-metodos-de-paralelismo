@@ -1,4 +1,4 @@
-# Efecto-blur-con-diferentes-metodos-de-paralelismo
+# Efecto-blur-con-Hilos-Python
 Aplicar efecto blur a imagenes usando hilos de python.
 
 ## Librerias
@@ -14,6 +14,8 @@ Para ejecutar el codigo usar esta linea:
 python blur_Threads_PY.py 720p.jpg 3 3 2
 ```
 python blur_Threads_PY.py -i -bx -by -t
+
+
 Donde:
 
 
