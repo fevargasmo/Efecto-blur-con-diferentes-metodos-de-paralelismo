@@ -20,3 +20,11 @@ Donde:
 -by: kernel en y
 -t: numero de hilos
 
+## Efecto blur 
+
+El efecto blur es sumar los pixeles vecinos de un pixel y hayar el premedio incluyendolo y asignarle ese valor al pixel, asi toma un efecto borroso.
+
+El trabajo que toma cada hilo es la imagen dividia en filas, la cantidad de filas a tratar son la cantidad de hilos. Es decir si por ejemplo son 4 hilos, el primer hilo toma hasta la fila 1/4, el segundo desde 1/4 hasta 2/4, y asi sucesivamente.
+
+
+
