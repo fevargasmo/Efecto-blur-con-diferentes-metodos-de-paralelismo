@@ -15,10 +15,10 @@ python blur_Threads_PY.py 720p.jpg 3 3 2
 ```
 python blur_Threads_PY.py -i -bx -by -t
 Donde:
--i: imagen a tratar
--bx: kernel en x
--by: kernel en y
--t: numero de hilos
+⋅⋅⋅-i: imagen a tratar.
+⋅⋅⋅-bx: kernel en x.
+⋅⋅⋅-by: kernel en y.
+⋅⋅⋅-t: numero de hilos.
 
 ## Efecto blur 
 
