@@ -14,7 +14,12 @@ sudo sh -c "echo '/usr/local/lib' >> /etc/ld.so.conf"
 
 
 Este programa se realizo en Ubuntu 14.04 para evitar problemas de versionamiento con CUDA.
+## compilar
 
+```
+nvcc -I/usr/include -L/usr/local/lib -g -o blur-effect blur-effect.cu -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs
+```
+*Nota: Para errores de librerias, depende como quedo intalado opencv, variar la linea -L/usr/local/lib por -L/usr/lib.
 ## Ejecutar
 Comando de ejecución:
 
