@@ -1,124 +1,124 @@
-Times for image: flor.jpg kernel: 3
+Times for image: 720p.jpg kernel: 3
 1  0.59
 2  0.56
 4  0.56
 8  0.56
 16  0.54
-Times for image: flor.jpg kernel: 5
+Times for image: 720p.jpg kernel: 5
 1  1.28
 2  1.24
 4  1.26
 8  1.25
 16  1.26
-Times for image: flor.jpg kernel: 7
+Times for image: 720p.jpg kernel: 7
 1  2.24
 2  2.23
 4  2.26
 8  2.30
 16  2.27
-Times for image: flor.jpg kernel: 9
+Times for image: 720p.jpg kernel: 9
 1  3.72
 2  3.70
 4  3.69
 8  3.70
 16  3.69
-Times for image: flor.jpg kernel: 11
+Times for image: 720p.jpg kernel: 11
 1  5.39
 2  5.36
 4  5.35
 8  5.35
 16  5.36
-Times for image: flor.jpg kernel: 13
+Times for image: 720p.jpg kernel: 13
 1  7.36
 2  7.35
 4  7.36
 8  7.34
 16  7.37
-Times for image: flor.jpg kernel: 15
+Times for image: 720p.jpg kernel: 15
 1  9.69
 2  9.69
 4  9.67
 8  9.68
 16  9.64
-Times for image: flor1080.jpg kernel: 3
+Times for image: 1080p.jpg kernel: 3
 1  1.09
 2  1.10
 4  1.07
 8  1.12
 16  1.08
-Times for image: flor1080.jpg kernel: 5
+Times for image: 1080p.jpg kernel: 5
 1  2.62
 2  2.61
 4  2.60
 8  2.63
 16  2.62
-Times for image: flor1080.jpg kernel: 7
+Times for image: 1080p.jpg kernel: 7
 1  4.87
 2  4.82
 4  4.81
 8  4.80
 16  4.87
-Times for image: flor1080.jpg kernel: 9
+Times for image: 1080p.jpg kernel: 9
 1  8.12
 2  8.13
 4  8.11
 8  8.11
 16  8.11
-Times for image: flor1080.jpg kernel: 11
+Times for image: 1080p.jpg kernel: 11
 1  11.84
 2  11.83
 4  11.87
 8  11.85
 16  11.85
-Times for image: flor1080.jpg kernel: 13
+Times for image: 1080p.jpg kernel: 13
 1  16.31
 2  16.27
 4  16.28
 8  16.28
 16  16.27
-Times for image: flor1080.jpg kernel: 15
+Times for image: 1080p.jpg kernel: 15
 1  21.53
 2  21.49
 4  21.51
 8  21.54
 16  21.54
-Times for image: flor4k.jpg kernel: 3
+Times for image: 4k.jpg kernel: 3
 1  3.90
 2  3.85
 4  3.96
 8  3.86
 16  3.91
-Times for image: flor4k.jpg kernel: 5
+Times for image: 4k.jpg kernel: 5
 1  10.29
 2  10.01
 4  10.06
 8  10.41
 16  10.05
-Times for image: flor4k.jpg kernel: 7
+Times for image: 4k.jpg kernel: 7
 1  19.08
 2  19.06
 4  19.36
 8  21.49
 16  20.03
-Times for image: flor4k.jpg kernel: 9
+Times for image: 4k.jpg kernel: 9
 1  33.90
 2  33.72
 4  33.64
 8  32.79
 16  33.89
-Times for image: flor4k.jpg kernel: 11
+Times for image: 4k.jpg kernel: 11
 1  48.16
 2  48.16
 4  48.30
 8  48.33
 16  48.44
-Times for image: flor4k.jpg kernel: 13
+Times for image: 4k.jpg kernel: 13
 1  66.82
 2  66.75
 4  66.60
 8  66.62
 16  68.48
-Times for image: flor4k.jpg kernel: 15
+Times for image: 4k.jpg kernel: 15
 1  88.34
 2  87.83
 4  89.69
