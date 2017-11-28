@@ -1,4 +1,4 @@
-# Efecto-blur-con-Hilos-Python
+# Efecto blur con Hilos Python
 Aplicar efecto blur a imagenes usando hilos de python.
 
 ## Librerias

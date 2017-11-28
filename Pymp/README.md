@@ -1,4 +1,4 @@
-# Efecto-blur-con-Pymp
+# Efecto blur con Pymp
 ## Aplicar efecto blur a imagenes usando pymp que es la interz de OpenMp para python.
 
 ## Librerias
