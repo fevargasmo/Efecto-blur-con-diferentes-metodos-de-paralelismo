@@ -1,0 +1,17 @@
+Compilar
+
+nvcc -I/usr/include -L/usr/local/lib -g -o blur_CUDA blur_CUDA.cu -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs
+
+Ejecutar
+
+./blur-effect imagenIn.jpg imagenOut.jpg k t
+
+Donde:
+
+-imagenIn: Seleccionan la imagen a tratar
+
+-imagenOut: nombre de la imagen resultante, se crea.
+
+-k: Cantidad de kernel
+
+-t: Numero de hilos
